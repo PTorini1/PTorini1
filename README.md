@@ -2,7 +2,7 @@
 ### Hi there 👋
 
  🔭 I’m currently working with PHP <br>
- 🌱 I’m currently learning PHP and Java <br>
+ 🌱 I’m currently learning PHP and JS <br>
 </div>
 
 <div align="center">
