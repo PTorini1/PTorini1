@@ -1,7 +1,7 @@
 <div>
 ### Hi there 👋
 
- 🔭 I’m programming passionate who is always trying to learn something new<br>
+ 🔭 I'm a programming passionate who is always trying to learn something new<br>
     At this moment I'm studying System Development in SENAI Manuel Garcia Filho<br>
 </div>
 
