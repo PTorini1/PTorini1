@@ -11,12 +11,11 @@
 
 <div>
   <a href="https://github.com/PTorini1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PTorini1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTorini1&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTorini1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Dart" height="50" width="600" src="https://skillicons.dev/icons?i=html,css,scss,php,jquery,java,js,py,dart,flutter">  
+  <img align="center" alt="Pedro-Icons" height="50" width="600" src="https://skillicons.dev/icons?i=html,css,scss,php,jquery,java,js,py,dart,flutter">  
 </div>
 
 <hr />
