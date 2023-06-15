@@ -3,8 +3,13 @@
 
  🔭 I'm a programming passionate who is always trying to learn something new 
   <br />
-    At this moment I'm studying System Development in SENAI Manuel Garcia Filho
+    At this moment I'm working in Grupo Krona 
+  <br /><br />
+    Here are some technologies I learned:
+  <br /><br />
+    • Grupo Krona: PHP, JS, Jquery, MySQL
   <br />
+   • SENAI: HTML, CSS, JS, Bootstrap, Dart, Flutter, Python, Java
 </div>
 
 <hr />
@@ -15,7 +20,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Icons" height="50" width="600" src="https://skillicons.dev/icons?i=html,css,scss,php,jquery,java,js,py,dart,flutter">  
+  <img align="center" alt="Pedro-Icons" height="50" width="600" src="https://skillicons.dev/icons?i=html,css,scss,php,jquery,java,js,py,dart,flutter,mysql, bootstrap">  
 </div>
 
 <hr />
