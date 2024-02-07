@@ -3,7 +3,7 @@
 
  🔭 I'm a programming passionate who is always trying to learn something new 
   <br />
- 💻 At this moment I'm working in Grupo Krona 
+ 💻 At this moment I'm working at Grupo Krona 
   <br /><br />
     Here are some technologies I learned:
   <br /><br />
