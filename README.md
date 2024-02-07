@@ -4,14 +4,11 @@
  🔭 I'm a programming passionate who is always trying to learn something new 
   <br />
  💻 At this moment I'm working at Grupo Krona 
+ <br /> 
+  🖤 Please, take a look at my pinned repositories which are my favorite ones :-) 
   <br /><br />
-    Here are some technologies I learned:
-  <br /><br />
-    • Grupo Krona: PHP, JS, Jquery, MySQL
-  <br />
-   • SENAI: HTML, CSS, JS, Bootstrap, Dart, Flutter, Python, Java
-   <br /> <br />
-   Please, take a look at my pinned repositories which are my favorite ones :-) 
+    `"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." ― Martin Fowler`
+   
 </div>
 
 <hr />
