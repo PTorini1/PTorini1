@@ -11,7 +11,7 @@
   <br />
    • SENAI: HTML, CSS, JS, Bootstrap, Dart, Flutter, Python, Java
    <br /> <br />
-   Please, take a look at my pinned repositories wich are my favorite ones :-) 
+   Please, take a look at my pinned repositories which are my favorite ones :-) 
 </div>
 
 <hr />
