@@ -3,7 +3,7 @@
 
  🔭 I'm a programming passionate who is always trying to learn something new 
   <br />
- 💻 At this moment I'm working at Grupo Krona 
+ 💻 At this moment I'm working at SESI São Paulo 
  <br /> 
   🖤 Please, take a look at my pinned repositories which are my favorite ones :-) 
   <br /><br />
