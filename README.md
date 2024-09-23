@@ -29,7 +29,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Icons" height="50" width="800" src="https://skillicons.dev/icons?i=html,css,scss,php,jquery,java,js,py,dart,flutter,mysql,git,bootstrap,cs">  
+  <img align="center" alt="Pedro-Icons" height="50" width="100%" src="https://skillicons.dev/icons?i=html,css,scss,php,jquery,java,js,py,dart,flutter,mysql,git,bootstrap,cs,docker">  
 </div>
 
 <hr />
